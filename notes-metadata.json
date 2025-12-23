@@ -44,20 +44,6 @@
       "uploadDate": "2025-11-28T14:04:28.200Z",
       "downloadUrl": "https://api.github.com/repos/mukul953kumar/notes-storage/contents/files/1764338651112_coa.pdf",
       "contributor": "Mukul Kumar"
-    },
-    {
-      "id": 1766423940802,
-      "title": "linkedlist",
-      "branch": "INFORMATION TECHNOLOGY",
-      "semester": "3",
-      "subject": "Data Structure",
-      "unit": "Arrays & Linked Lists",
-      "fileName": "1766423940802_linkedlist.pdf",
-      "originalFileName": "Linkedlist.pdf",
-      "fileSize": 1936595,
-      "uploadDate": "2025-12-22T17:19:07.446Z",
-      "downloadUrl": "https://api.github.com/repos/mukul953kumar/notes-storage/contents/files/1766423940802_linkedlist.pdf",
-      "contributor": "mukul kumar it"
     }
   ]
 }
