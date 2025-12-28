@@ -44,6 +44,22 @@
       "uploadDate": "2025-11-28T14:04:28.200Z",
       "downloadUrl": "https://api.github.com/repos/mukul953kumar/notes-storage/contents/files/1764338651112_coa.pdf",
       "contributor": "Mukul Kumar"
+    },
+    {
+      "id": 1766900014919,
+      "title": "data type",
+      "branch": "COMPUTER SCIENCE",
+      "semester": "2",
+      "subject": "Math",
+      "unit": "Differential Equations",
+      "contentType": "notes",
+      "examYear": null,
+      "fileName": "1766900014919_data_type.pdf",
+      "originalFileName": "Sih script.pdf",
+      "fileSize": 4064401,
+      "uploadDate": "2025-12-28T05:33:39.752Z",
+      "downloadUrl": "https://api.github.com/repos/mukul953kumar/notes-storage/contents/files/1766900014919_data_type.pdf",
+      "contributor": "mukul kumar it"
     }
   ]
 }
